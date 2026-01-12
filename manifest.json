@@ -1,0 +1,9 @@
+{
+  "name": "Invitación de Boda",
+  "short_name": "Nuestra Boda",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f8f5f0",
+  "theme_color": "#6b7b5c",
+  "orientation": "portrait"
+}
